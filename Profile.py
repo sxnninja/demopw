@@ -10,10 +10,10 @@ def show_profile():
         "Facebook"  : "https://www.facebook.com/sxndeptrai",
         "Instagram" : "https://www.instagram.com/_nooson_/",
         "Game chính": "Counter-Strike 2 (CS2)",
-        "Chuột"     : "Razer DeathAdder Essential",
+        "Chuột"     : "ATK X1 SE",
         "Sens"      : "1.25 (DPI mặc định)",
         "Laptop"    : "ASUS ROG Strix G814JIR",
-        "Bàn phím"  : "Razer Ornata V3X"
+        "Bàn phím"  : "AULA WIN68 HE"
     }
 
     print("\n=== PROFILE CÁ NHÂN ===")
